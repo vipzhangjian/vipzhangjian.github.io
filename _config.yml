@@ -1,6 +1,6 @@
 # Site settings
 title: 技术博客
-description: >
+description: 
   这是一个简单又不是很简单的博客
 
 baseurl: "" # the subpath of your site, e.g. /blog/
