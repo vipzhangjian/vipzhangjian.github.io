@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello
+title: 你好
 subtitle: My name is 阿健
 sitemap:
   priority: 0.9
