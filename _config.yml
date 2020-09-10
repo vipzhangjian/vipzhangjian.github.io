@@ -1,15 +1,15 @@
 # Site settings
-title: 技术博客
-description: 
-  这是一个简单又不是很简单的博客
+title: 阿健
+description: >
+  A superman，A hip-hop man
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://vipzhangjian.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: 死肥宅
+  fullname: 健仔
   github: github
-  email: 1289462386@email.com
+  email: example@email.com
 
 
 # Syntax highlighting
