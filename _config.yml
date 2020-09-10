@@ -1,15 +1,15 @@
 # Site settings
-title: Svip
+title: 技术博客
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  这是一个简单又不是很简单的博客
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://svip.github.io" # the base hostname & protocol for your site
+url: "https://vipzhangjian.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Svip
+  fullname: 死肥宅
   github: github
-  email: example@email.com
+  email: 1289462386@email.com
 
 
 # Syntax highlighting
