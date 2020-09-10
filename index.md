@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/hip-hop.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/hip-hop.png' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
 	<p>A superman，A hip-hop man</p>
