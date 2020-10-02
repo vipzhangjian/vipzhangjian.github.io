@@ -4,7 +4,8 @@
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
     color: #012;
-    background-color: #FFF; }
+    background-image: url(../img/bg.jpg);
+  }
 
   a {
     color: #57A;
@@ -46,7 +47,9 @@
 
   .wrapper {
     max-width: 90%;
-    margin: 60px auto; }
+    margin: 60px auto; 
+    background-color: #fff;
+  }
 
 /* =Header *//*************************************************************/
   .header {
