@@ -5,6 +5,8 @@
     font-size: 100%;
     color: #012;
     background-image: url(../img/bg.jpg);
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
   }
 
   a {
