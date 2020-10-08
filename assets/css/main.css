@@ -5,7 +5,7 @@
     font-size: 100%;
     color: #012;
     background-image: url(../img/bg.jpg);
-    background-size: cover;
+    background-size: 100% 100%;
   }
 
   a {
@@ -50,7 +50,17 @@
     max-width: 90%;
     margin: 60px auto; 
   }
-
+  .a-top {
+    position:fixed;
+    bottom: 2%;
+    right:2%;
+    font-size: 20px;
+    width: 30px;
+    background-color: aqua;
+    text-align: center;
+    padding: 5px 0px;
+    border-radius: 25%;
+  }
 /* =Header *//*************************************************************/
   .header {
     overflow: hidden; }
@@ -118,7 +128,7 @@
 
   .post-teaser__title {
     font-size: 100%;
-    color: #828282; }
+    color: black; }
 
   .post-teaser__date {
     font-size: 100%;
