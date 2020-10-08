@@ -4,9 +4,8 @@
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
     color: #012;
-    background-image: url(../img/bgc.jpg);
+    background-image: url(../img/bg.jpg);
     background-size: cover;
-    background-color: rgba(255, 255,255, 0.5);
   }
 
   a {
@@ -175,8 +174,8 @@
 
 /* =Main Page *//*************************************************************/
   #about-img {
-    border-radius: 13%;
-    max-width: 125px;
+    border-radius: 25%;
+    max-width: 200px;
     margin: auto;
     margin-bottom: 3%;
   }
