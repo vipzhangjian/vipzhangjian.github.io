@@ -92,7 +92,8 @@
       margin-right: 0px; }
 
   .menu__entry a {
-    font-weight: 400; }
+    font-weight: 400;
+    border: solid 2px; }
 
   .social-links {
     float: right;
